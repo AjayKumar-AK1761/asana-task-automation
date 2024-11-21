@@ -3,7 +3,7 @@
 # Personal Access Token for Asana API
 ASANA_API_TOKEN = "2/1208795776419167/1208808840917077:1b68711cfc945a48175e6bdc41dd7672"
 
-# Project ID where sections need to be queried
+# Project I-d "resource=your_project_id" \D where sections need to be queried
 PROJECT_ID = "1208795719713663"
 
 # Section IDs (optional, can add as needed)
