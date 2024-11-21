@@ -1,4 +1,4 @@
 curl -X POST https://app.asana.com/api/1.0/webhooks \
-> -H "Authorization: Bearer 2/1208795776419167/1208808840917077:1b68711cfc945a48175e6bdc41dd7672" \
-> -d "resource=1208795719713663" \
-> -d "target=https://fuzzy-tribble-pjj6jrgr56wx27r9w-5000.app.github.dev"
+  -H "Authorization: Bearer 2/1208795776419167/1208817383409625:8be739795253c595d6e4026edfd778f8" \
+  -d "resource=1208795719713663" \
+  -d "target=https://ubiquitous-barnacle-q77x7q9q5gw7c64j7-5000.app.github.dev/webhook"
